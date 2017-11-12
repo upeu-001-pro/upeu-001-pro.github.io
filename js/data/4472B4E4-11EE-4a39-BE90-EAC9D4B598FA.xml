@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("1.2.1.2:1", "", "django.contrib.auth.models", "EARoot/EA1/EA2/EA1/EA2/EA40.htm", "175.png", "4", "0", "", "Logical diagram0","{C3F5903A-1F48-4057-8C55-A4E3D47533AB}");
+tocTab[tocTab.length] = new Array("1.2.1.2:2", "", "AbstractUser", "EARoot/EA1/EA2/EA1/EA2/EA44.htm", "5.png", "42", "0", "", "Class0","{9D67BDCC-B507-414c-B96A-6D2FCD6F47B6}");
+tocTab[tocTab.length] = new Array("1.2.1.2:3", "", "Group", "EARoot/EA1/EA2/EA1/EA2/EA45.htm", "5.png", "41", "0", "", "Class0","{6F7539E2-A50C-4a1e-9092-75ED642FA2B3}");
+tocTab[tocTab.length] = new Array("1.2.1.2:4", "", "Permission", "EARoot/EA1/EA2/EA1/EA2/EA46.htm", "5.png", "40", "0", "", "Class0","{666A7B38-632F-4549-9796-682A57983A78}");
+tocTab[tocTab.length] = new Array("1.2.1.2:5", "", "PermissionsMixin", "EARoot/EA1/EA2/EA1/EA2/EA47.htm", "5.png", "43", "0", "", "Class0","{D75C7299-FC27-4b5c-A386-B90CBF1930CE}");
+tocTab[tocTab.length] = new Array("1.2.1.2:6", "", "User", "EARoot/EA1/EA2/EA1/EA2/EA48.htm", "5.png", "46", "0", "", "Class0","{FF780204-2975-46be-9B18-CF2B991364B4}");
